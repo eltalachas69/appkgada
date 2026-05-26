@@ -1,0 +1,40 @@
+## Visual Studio ##
+.vs/
+[Bb]in/
+[Oo]bj/
+[Log]/
+*.user
+*.userosscache
+*.sln.docstates
+
+## Archivos de usuario y configuraciones locales ##
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.suo
+*.clw
+*.ncb
+*.pfx
+*.ids
+*.suo
+
+## VS Code ##
+.vscode/
+
+## Mac / iOS / MacCatalyst específicos ##
+.DS_Store
+.AppleDouble
+.LSOverride
+**/[Bb]in/
+**/[Oo]bj/
+
+## Paquetes NuGet ##
+*.nuget.props
+*.nuget.targets
+packages/
+node_modules/
+
+## Herramientas de .NET y MAUI ##
+.dotnet/
+.tools/
